@@ -2,8 +2,8 @@
 1)UPLOAD to GIT
     cd D:\5_REACT_NATIVE_K\ReactJS_2023_All
 	git init
-		git add ReadMeReactJs_Git.md
-		git add ReactJS_202206/ ReadMeReactJs_Git.md
+		git add ReadMeReactJs_Git.md .gitignore   (when new project)
+		git add ReactJS_202206/ 
 		
 	git commit -m "first commit" 
 	git remote add origin https://github.com/kreshan882/ReactJS_2023_All.git

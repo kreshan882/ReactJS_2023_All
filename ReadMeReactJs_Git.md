@@ -4,6 +4,7 @@
 	git init
 		git add ReadMeReactJs_Git.md .gitignore   (when new project)
 		git add ReactJS_202206/ 
+		git add ReactJs_Redux/
 		
 	git commit -m "first commit" 
 	git remote add origin https://github.com/kreshan882/ReactJS_2023_All.git

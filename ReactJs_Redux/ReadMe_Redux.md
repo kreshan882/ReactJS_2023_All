@@ -74,6 +74,20 @@ https://www.youtube.com/watch?v=YybdD3Q4BL0 REDUX tamil [Min1.43]
 				=====> updateOBJ name & contry can change, with out change personOBJ
 				
 				
-5) REDUX Start [1.07---]	
+5) REDUX Start [1.07---1.22....1.32]	
 		1) npx create-react-app ReactJs_Redux
 		
+		2) official side for REDUX-TOOLKIT
+			https://redux.js.org/
+					React-redux
+					redux-toolkit --- good sanded way to write redux logic
+			
+		3) Script
+			npm install @reduxjs/toolkit
+			npm install react-redux
+			
+		4) get inout valur to count [ Min 1.32 ---1.43]
+			
+			
+******************************done*************************************
+					

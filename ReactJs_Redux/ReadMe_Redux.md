@@ -90,4 +90,17 @@ https://www.youtube.com/watch?v=YybdD3Q4BL0 REDUX tamil [Min1.43]
 			
 			
 ******************************done*************************************
-					
+REDUX 2
+https://www.youtube.com/watch?v=pX0SBJF01EU - 1 hour
+
+1) create store
+2) create todo slice with add & remove (and link with store)
+3) create Component - min34
+		add todo
+		view todo - min 40
+		***install redux dev tool to browser [44 min]
+			https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+			Chrome-> rightClick -> React Dev Tool
+
+		delete -53 min
+		 full description 55 min

@@ -2,11 +2,12 @@ import React,{useState} from "react";
 import {  useDispatch, useSelector } from "react-redux";
 import { increment, decrement , reset, incrementByAmount} from "./counterSlice";
 
+//fethures ---> login, Authondication ,user management, counter
 const Counter =() => {
 
     const count =useSelector((state) => state.counter.count)
+    
     const dispatch = useDispatch()
-
     const [incrementAmount, setIncrementAmount] = useState(0);
 
     const addValue = Number(incrementAmount) || 0; //number validation

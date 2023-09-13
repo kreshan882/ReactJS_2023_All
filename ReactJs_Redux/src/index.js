@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 
 import { store } from './app/store';  //from @reduxjs/toolkit
-import { Provider } from 'react-redux';
+import { Provider } from 'react-redux';  // profider is feed store details to react app
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
